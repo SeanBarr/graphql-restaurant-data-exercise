@@ -7,6 +7,7 @@ This project utilizes both Graphql and Express. The purpose of this exercise is 
 
 To clone the repo use the following command: git clone github.com/SeanBarr/graphql-restaurant-data-exercise.git
 
-Live Demo Link: seanbarr.github.io/graphql-restaurant-data-exercise/
+To Run: npm install express express-graphql graphql
+then run node server with this code: node index.js
 
 MIT License: https://opensource.org/licenses/MIT
